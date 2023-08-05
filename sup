@@ -2,3 +2,5 @@ emfile
 source 'https://rubygems.org'
  
 gem 'google_drive'
+
+bundle install --path vendor/bundle
