@@ -1,3 +1,4 @@
+＄　bundle install --path vendor/bundle
 emfile
 source 'https://rubygems.org'
  
